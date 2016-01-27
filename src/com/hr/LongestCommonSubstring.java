@@ -1,3 +1,4 @@
+package com.hr;
 
 public class LongestCommonSubstring {
 

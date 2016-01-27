@@ -1,3 +1,4 @@
+package com.hr;
 import java.util.Scanner;
 
 public class FlippingBits {
